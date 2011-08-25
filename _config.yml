@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mazzala.dev
+title: Letters from Mazza'la
+subtitle: The adventures of a Glitch.
+author: Duien
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
@@ -44,32 +44,3 @@ default_asides: [asides/recent_posts.html, asides/twitter.html, asides/delicious
 # post_asides:
 # page_asides:
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-# Twitter
-twitter_user:
-twitter_tweet_count: 4
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
-twitter_tweet_button: true
-
-# Google Plus
-google_plus_one: true
-google_plus_one_size: medium
-
-# Pinboard
-pinboard_user:
-pinboard_count: 3
-
-# Delicious
-delicious_user:
-delicious_count: 3
-
-# Disqus Comments
-disqus_short_name:
-
-# Google Analytics
-google_analytics_tracking_id:
